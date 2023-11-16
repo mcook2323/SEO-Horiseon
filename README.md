@@ -4,6 +4,8 @@
 
 This Challenge was to make Semantic HTML with accesible friendly features while changing any necessary CSS to keep the website consistent with how it is currently written. The website demonstrates search engine optimization and the ability to generate leads
 
+### Below is the acceptancee criteria that has been completed and completion instruction
+
 ## Acceptance Criteria
 
 ```
